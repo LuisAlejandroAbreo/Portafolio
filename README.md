@@ -62,5 +62,5 @@ El proyecto se encuentra compilado, optimizado y desplegado en producción a tra
 
 Si eres reclutador o desarrollador y quieres conocer más sobre mi perfil técnico o discutir oportunidades de colaboración:
 
-* **LinkedIn:** [Tu Nombre Profesional](https://linkedin.com)
-* **Email:** [tu.correo@example.com](mailto:tu.correo@example.com)
+* **GitHub:** [Luis Alejandro Abreo Carrillo](https://github.com/LuisAlejandroAbreo)
+* **Email:** alejandro.abreo39@gmail.com
