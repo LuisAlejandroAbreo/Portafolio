@@ -54,7 +54,7 @@ Se implementó el estándar de **Conventional Commits** combinado con emojis exp
 
 El proyecto se encuentra compilado, optimizado y desplegado en producción a través de **GitHub Pages**. Puedes ver el resultado final haciendo clic en el siguiente enlace:
 
-🔗 **[Visitar el Portafolio en Vivo](https://github.com/)** *(Reemplazar con tu enlace real de GitHub Pages)*
+🔗 **[Visitar el Portafolio en Vivo](https://luisalejandroabreo.github.io/Portafolio/)**
 
 ---
 
